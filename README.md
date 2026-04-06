@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Hey%2C%20I'm%20Neev%20👋&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20What%20Matters&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Shipping+production+code+since+Day+1;MERN+%7C+System+Design+%7C+Scalable+Architecture;Turning+caffeine+into+clean+commits+%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+and+impactful+software;Full+Stack+Magic+%E2%9C%A8+%7C+Performance+Obsessed;Turning+caffeine+into+clean+commits+%E2%98%95" alt="Typing SVG" /></a>
 
 <br/>
 
