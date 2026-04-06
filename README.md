@@ -239,7 +239,7 @@ let's build something meaningful together.
 
 ### 💭 Dev Philosophy
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Great developers don’t rush to code—they architect understanding first."* — John Johnson
 
 <br/>
 
