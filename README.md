@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Hey%2C%20I'm%20Neev%20👋&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20What%20Matters&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d1b69,100:f97316&height=220&section=header&text=Hey%2C%20I'm%20Neev%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20What%20Matters&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+and+impactful+software;Full+Stack+Magic+%E2%9C%A8+%7C+Performance+Obsessed;Turning+caffeine+into+clean+commits+%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+and+impactful+software;Full+Stack+Magic+%E2%9C%A8+%7C+Performance+Obsessed;Turning+caffeine+into+clean+commits+%E2%98%95" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,9 +13,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Neevptl)
 
-<img src="https://komarev.com/ghpvc/?username=neev3654&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=neev3654&label=Profile%20Views&color=f97316&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -71,83 +71,48 @@ const neev = {
 
 ---
 
-## 🏗️ Featured Projects
+## 🧩 LeetCode Journey
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-### 🚀 RapidResQ — Emergency Response Platform
-<a href="https://github.com/neev3654/rapid-resq">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🔥 Problem Solving Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Neevptl?theme=dark&font=JetBrains%20Mono&ext=activity)](https://leetcode.com/Neevptl)
 
-**Real-time emergency dispatch system** with intelligent call rerouting, live incident heatmaps, and multi-agency coordination.
+<br/>
 
-`React` `Node.js` `MongoDB` `Leaflet`
+### 🏆 Achievements & Badges
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80" alt="50 Days Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="80" alt="100 Days Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="80" alt="December Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2024-1.gif" width="80" alt="DCC Badge"/>
+</div>
 
-- 🔴 Live incident tracking with WebSocket feeds
-- 🗺️ OSM-powered road-aware routing engine
-- ⚡ Sub-200ms call reroute on node failure
-- 📊 SLA breach monitoring with auto-escalation
+<br/>
 
-</td>
-<td width="50%">
+### 📊 Progress Overview
+```text
+┌─────────────────────┬─────────┐
+│ Category           │ Solved  │
+├─────────────────────┼─────────┤
+│ 🟢 Easy            │   150+  │
+│ 🟡 Medium          │   200+  │
+│ 🔴 Hard            │    50+  │
+│ 🎯 Total Problems  │   400+  │
+└─────────────────────┴─────────┘
+```
 
-### 🧠 NexusAI — SaaS Analytics Dashboard
-<a href="https://github.com/neev3654/nexus-ai">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 💡 Favorite Topics
+`Dynamic Programming` • `Graphs` • `Trees` • `Greedy Algorithms` • `System Design`
 
-**AI-powered business intelligence platform** with predictive analytics, automated reporting, and real-time collaboration.
+### 🚀 Current Focus
+- **Blind 75 Mastery**: 85% Complete
+- **NeetCode 150**: 92% Complete  
+- **Advanced Algorithms**: Graph Theory & Optimization
+- **Interview Prep**: FAANG-level problem solving
 
-`React` `Node.js` `MongoDB`
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Neevptl)
 
-- 📈 ML-driven revenue forecasting (92% accuracy)
-- 🔄 Real-time data pipeline processing 10K events/sec
-- 🎯 Role-based dashboards with granular permissions
-- 🌐 Multi-tenant SaaS architecture
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 VeloCart — Headless E-Commerce Engine
-<a href="https://github.com/neev3654/velocart">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-**High-performance headless commerce platform** built for scale with edge caching and serverless checkout flows.
-
-`React` `Node.js` `MongoDB` `Stripe`
-
-- 🏎️ 98/100 Lighthouse performance score
-- 💳 PCI-compliant payment processing via Stripe
-- 📦 Inventory sync across multi-warehouse setup
-- 🔍 Algolia-powered search with typo tolerance
-
-</td>
-<td width="50%">
-
-### 💬 SyncSpace — Real-Time Collaboration Suite
-<a href="https://github.com/neev3654/syncspace">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-**Multiplayer workspace** with live document editing, video conferencing, and project management built on CRDTs.
-
-`React` `Node.js` `MongoDB` `WebRTC`
-
-- ✍️ Conflict-free real-time document editing
-- 📹 Peer-to-peer video with SFU fallback
-- 🗂️ Kanban boards with drag-and-drop state sync
-- 🔔 Smart notification engine with priority routing
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -173,19 +138,19 @@ const neev = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neev3654&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neev3654&show_icons=true&theme=merko&hide_border=true&bg_color=1a1a1a&title_color=f97316&icon_color=a855f7&text_color=ffffff&ring_color=f97316&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neev3654&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neev3654&layout=compact&theme=merko&hide_border=true&bg_color=1a1a1a&title_color=f97316&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
 <!-- STREAK STATS -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=neev3654&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=f78166&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Streak Stats"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=neev3654&theme=merko&hide_border=true&background=1a1a1a&stroke=f97316&ring=f97316&fire=f97316&currStreakLabel=a855f7&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc" alt="Streak Stats"/>
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=neev3654&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f78166&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=neev3654&bg_color=1a1a1a&color=f97316&line=a855f7&point=f97316&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph"/>
 
 </div>
 
@@ -209,7 +174,7 @@ const neev = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=neev3654&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=neev3654&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
@@ -243,6 +208,6 @@ let's build something meaningful together.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d1b69,100:f97316&height=120&section=footer" width="100%"/>
 
 </div>
