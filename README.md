@@ -8,11 +8,13 @@
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
+## 🤝 Connect With Me
+
+<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neev-patel-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neev-ptl/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neev.patel.cg@gmail.com)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NeevPatel130469)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Neevptl)
 
 <img src="https://komarev.com/ghpvc/?username=neev3654&label=Profile%20Views&color=f97316&style=for-the-badge" alt="Profile Views" />
@@ -95,21 +97,21 @@ const neev = {
 ┌─────────────────────┬─────────┐
 │ Category           │ Solved  │
 ├─────────────────────┼─────────┤
-│ 🟢 Easy            │   150+  │
-│ 🟡 Medium          │   200+  │
-│ 🔴 Hard            │    50+  │
-│ 🎯 Total Problems  │   400+  │
+│ 🟢 Easy            │   108   │
+│ 🟡 Medium          │    18   │
+│ 🔴 Hard            │     1   │
+│ 🎯 Total Problems  │   127   │
 └─────────────────────┴─────────┘
 ```
 
 ### 💡 Favorite Topics
-`Dynamic Programming` • `Graphs` • `Trees` • `Greedy Algorithms` • `System Design`
+`Arrays` • `Strings` • `Hashing` • `Two Pointers` • `Sliding Window`
 
 ### 🚀 Current Focus
-- **Blind 75 Mastery**: 85% Complete
-- **NeetCode 150**: 92% Complete  
-- **Advanced Algorithms**: Graph Theory & Optimization
-- **Interview Prep**: FAANG-level problem solving
+- **Daily LeetCode practice**: 5 problems per day
+- **Blind 75**: mastering core patterns like sliding window and hashing
+- **NeetCode 150**: steadily working through the list
+- **Fundamentals first**: arrays, strings, and two-pointer strategies
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Neevptl)
 
