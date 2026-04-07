@@ -8,6 +8,24 @@
 
 <br/>
 
+## � About Me
+
+```js
+const neev = {
+    role: "Full Stack Developer",
+    code: ["JavaScript", "Java", "C++"],
+    architecture: ["Microservices", "Event-Driven", "Monolithic", "Serverless"],
+    currentFocus: "Building scalable systems that solve real-world problems",
+    funFact: "I debug in production and call it 'live testing' 😄"
+};
+```
+
+> I don't just write code — I engineer solutions. From pixel-perfect interfaces to battle-tested APIs,
+> I build full-stack applications that are designed to **scale, perform, and ship**.
+> Currently exploring **system design**, **AI-powered tooling**, and **developer experience**.
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -34,7 +52,7 @@
 
 ---
 
-## 🧬 About Me
+## ⚡ Tech Arsenal
 
 ```js
 const neev = {
@@ -183,16 +201,6 @@ const neev = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=neev3654&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -204,10 +212,10 @@ let's build something meaningful together.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
-[![Resume](https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link)
+[![Email](https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neev.patel.cg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neev-ptl/)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neev-patel-portfolio.vercel.app/)
+[![Resume](https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 
 </div>
 
