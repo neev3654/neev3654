@@ -8,17 +8,13 @@
 
 <br/>
 
-## � About Me
+## 🔍 About Me
 
-```js
-const neev = {
-    role: "Full Stack Developer",
-    code: ["JavaScript", "Java", "C++"],
-    architecture: ["Microservices", "Event-Driven", "Monolithic", "Serverless"],
-    currentFocus: "Building scalable systems that solve real-world problems",
-    funFact: "I debug in production and call it 'live testing' 😄"
-};
-```
+- Full Stack Developer skilled in JavaScript, Java, and C++
+- Experienced with Microservices, Event-Driven, Monolithic, and Serverless architectures
+- Building scalable, production-ready systems that solve real-world problems
+- Focused on high performance, clean engineering, and strong developer experience
+- Fun fact: I debug in production and call it “live testing” 😄
 
 > I don't just write code — I engineer solutions. From pixel-perfect interfaces to battle-tested APIs,
 > I build full-stack applications that are designed to **scale, perform, and ship**.
@@ -49,24 +45,6 @@ const neev = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neev3654&label=Profile%20Views&color=f97316&style=for-the-badge" alt="Profile Views" />
 </p>
-
----
-
-## ⚡ Tech Arsenal
-
-```js
-const neev = {
-    role: "Full Stack Developer",
-    code: ["JavaScript", "Java", "C++"],
-    architecture: ["Microservices", "Event-Driven", "Monolithic", "Serverless"],
-    currentFocus: "Building scalable systems that solve real-world problems",
-    funFact: "I debug in production and call it 'live testing' 😄"
-};
-```
-
-> I don't just write code — I engineer solutions. From pixel-perfect interfaces to battle-tested APIs,
-> I build full-stack applications that are designed to **scale, perform, and ship**.
-> Currently exploring **system design**, **AI-powered tooling**, and **developer experience**.
 
 ---
 
