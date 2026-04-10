@@ -10,7 +10,7 @@
 
 ## 🔍 About Me
 
-- Full Stack Developer skilled in JavaScript, Java, and C++
+- Full Stack Web Developer with MERN stack experience, responsive UI design, and scalable app delivery
 - Strong in system design, API architecture, and scalable full-stack delivery
 - Building production-ready systems with clean engineering and developer-friendly tooling
 - Focused on high performance, collaboration, and shipping software that works
