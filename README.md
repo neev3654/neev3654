@@ -11,10 +11,9 @@
 ## 🔍 About Me
 
 - Full Stack Developer skilled in JavaScript, Java, and C++
-- Experienced with Microservices, Event-Driven, Monolithic, and Serverless architectures
-- Building scalable, production-ready systems that solve real-world problems
-- Focused on high performance, clean engineering, and strong developer experience
-- Fun fact: I debug in production and call it “live testing” 😄
+- Strong in system design, API architecture, and scalable full-stack delivery
+- Building production-ready systems with clean engineering and developer-friendly tooling
+- Focused on high performance, collaboration, and shipping software that works
 
 > I don't just write code — I engineer solutions. From pixel-perfect interfaces to battle-tested APIs,
 > I build full-stack applications that are designed to **scale, perform, and ship**.
