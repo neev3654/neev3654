@@ -6,6 +6,10 @@
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+and+impactful+software;Full+Stack+Magic+%E2%9C%A8+%7C+Performance+Obsessed;Turning+caffeine+into+clean+commits+%E2%98%95" alt="Typing SVG" /></a>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neev3654&label=Profile%20Views&color=f97316&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <br/>
 
 ## 🔍 About Me
@@ -39,10 +43,6 @@
   <a href="https://leetcode.com/Neevptl">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neev3654&label=Profile%20Views&color=f97316&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -173,26 +173,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neev3654/neev3654/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/neev3654/neev3654/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-**I'm always open to interesting conversations, collaborations, and opportunities.**
-
-Whether you're a recruiter, a founder looking for a technical co-pilot, or a fellow developer —
-let's build something meaningful together.
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neev.patel.cg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neev-ptl/)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neev-patel-portfolio.vercel.app/)
-[![Resume](https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 
 </div>
 
